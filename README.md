@@ -1,11 +1,11 @@
 # ¡Hola! Soy Marto 👋
 
 ### 👨‍💻 Sobre mí
-Soy estudiante de **Análisis de Sistemas** (ultimo año ja). Me apasiona el desarrollo web y la resolución de problemas lógicos. Actualmente estoy enfocado en profundizar mis conocimientos en el ecosistema de PHP y buenas prácticas de diseño de software.
+Soy estudiante de **Análisis de Sistemas** (ultimo año ja). Me apasiona la resolución de problemas lógicos. Actualmente estoy enfocado en profundizar mis conocimientos en el ecosistema de PHP, buenas prácticas de diseño de software, y aprendiendo diversos aspectos del manejo de datos con python.
 
-- 🔭 Actualmente estoy trabajando en: **Una plataforma web de gestión de proyectos con Laravel**, y **en un sistema de gestion de trayectorias estudiantiles**.
+- 🔭 Actualmente estoy trabajando en: **Un bot de discord con herramientas para streaming**, y **en un sistema de gestion de trayectorias estudiantiles**.
 - 🌱 Estoy aprendiendo: **estructuras de datos, Ingles tecnico y Laravel **.
-- 💼 Busco colaborar en: Proyectos Open Source relacionados con PHP o herramientas para desarrolladores.
+- 💼 Busco colaborar en: Proyectos Open Source relacionados con PHP/Python o herramientas para desarrolladores.
 - 📫 Cómo contactarme: **marticontacto21@gmail.com** Discord: Martoh
 
 ---
