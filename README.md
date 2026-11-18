@@ -47,7 +47,7 @@ Convierto procesos en papel en sistemas de gestión que funcionan: pienso el sof
 
 - **[Estación de visión para cadena de arrastre](https://github.com/MartoHG/LOMATON---CHAIN-TEAM)** — 🥈 **2.º puesto en la hackathon LOMATÓN 2026** con el equipo Chain Team. Detecta fallas en una cadena de arrastre industrial desde una estación fija, con visión clásica: sin modelos entrenados ni dataset de fallas, y corre offline en cualquier notebook. Planteé la idea y construí el prototipo. `Python · OpenCV · NumPy · Streamlit`
 
-- **El Refugio** *(repo privado, sin publicar)* — tienda online para una forrajería, con cotización del envío antes del pago, Mercado Pago y panel de pedidos, productos y precios. Definí las reglas de negocio, la especificación y la arquitectura, y lo implementé con Claude Code y más de 300 tests. `Laravel 13 · Tailwind 4 · HTMX · Mercado Pago · PHPUnit`
+- **[El Refugio](https://github.com/MartoHG/webshop_laravel)** *(pendiente de puesta en producción)* — tienda online para una forrajería, con cotización del envío antes del pago, Mercado Pago y panel de pedidos, productos y precios. Definí las reglas de negocio, la especificación y la arquitectura, y lo implementé con Claude Code y más de 300 tests. `Laravel 13 · Tailwind 4 · HTMX · Mercado Pago · PHPUnit`
 
 - **[Portfolio](https://martohg.github.io)** ([repo](https://github.com/MartoHG/portfolio_terraria)) — una versión clásica liviana, sin frameworks, y una versión jugable: un descenso vertical donde el contenido sigue siendo HTML accesible y PixiJS dibuja el mundo alrededor. Lo pesado solo se descarga si alguien entra a jugar. `TypeScript · React · PixiJS · Vite · Vitest · Playwright`
 
